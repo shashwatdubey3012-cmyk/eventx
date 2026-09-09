@@ -1,0 +1,6 @@
+{
+  "name": "EventX",
+  "description": "Modern, responsive event management platform for discovering events, booking tickets with digital QR passes, organizer workflows, and administrative governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
